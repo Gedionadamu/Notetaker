@@ -51,6 +51,7 @@ To run test, run the following comands :-
 # Questions
 
   If you have any question please contact me using the following :-   
-  Github :- https://github.com/Gedionadamu/Notetaker   
+  Github :- https://github.com/Gedionadamu/Notetaker 
+  Deployed site :- https://noteertaker.herokuapp.com
   Email:- gedionadamu@gmail.com
 
